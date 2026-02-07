@@ -1,6 +1,8 @@
 # Exemplos OpenMP
 
-Este repositório tem os exemplos em OpenMP do livro "Programação Paralela e Distribuída".
+Este repositório tem os exemplos em OpenMP do livro "Programação Paralela e Distribuída"
+da editora Casa do Código. 
+Mais recursos para o livro estão disponíveis na seguinte [página](programacao-paralela-e-distribuida.github.io).
 Todos os arquivos podem ser compilados com uso do Makefile usando o comando make. 
 Para executar os programas compilados podem ser o comando "make run PROG=nomedoprograma". 
 
